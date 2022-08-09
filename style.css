@@ -38,6 +38,56 @@ header p {
     color: rgba(0, 0, 0, 0.7)
 }
 
-.brunch h2 {
+h2 {
     background: #FED7AA;
+    padding: 8px 0 8px 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: flex;
+}
+
+h3 {
+    margin: 24px auto 8px auto;
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: 2d2c2a;
+}
+
+strong {
+    margin: 24px auto 8px auto;
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: 2d2c2a;
+}
+
+.options p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.bebidas {
+    margin-top: 24px;
 }
