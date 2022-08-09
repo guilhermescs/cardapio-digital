@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background:#FFEDD5;
+    max-width: 300px;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    margin: 32px auto 32px auto;
+}
+
+header h1 {
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    color: #2d2c2a;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 28px;
+    align-items: center;
+}
+
+header h1 span {
+    color: #995000;
+}
+
+header p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.7)
+}
+
+.brunch h2 {
+    background: #FED7AA;
+}
